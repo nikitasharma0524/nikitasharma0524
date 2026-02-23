@@ -1,6 +1,6 @@
 # Hi, I’m Nikita (ニキタ) 👋🇯🇵
 
-Frontend Developer (Javascript / Vue / React / Angular) building clean, user-first products. With a long-term interest in Japan and friends there, I visited in 2025 and recently passed the NAT-TEST N3 (equivalent to JLPT N3). I’m seeking opportunities to relocate to Japan in 2026 for a long-term career role.
+Frontend Developer (Javascript / Vue / React / Angular) building clean, user-first products. With a long-term interest in Japan and friends there, I visited in 2025 and recently leveling up for N3. I’m seeking opportunities to relocate to Japan in 2026 for a long-term career role.
 
 
 🎯 **Goal:** Frontend roles in Japan (Tokyo / Remote Japan-friendly)  
