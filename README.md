@@ -12,7 +12,7 @@ Frontend Developer (Javascript / Vue / React / Angular) building clean, user-fir
 ## 🌸 Why Japan (in one sentence)
 
 I want to build products with craftsmanship, clarity, and care — and Japan is where that mindset feels like home.
-
+丁寧さと明確さ、思いやりを大切にしたものづくりをしたい――その想いに最も共鳴するのが日本です。
 ---
 
 ## 🧰 Tech I use
@@ -66,4 +66,4 @@ https://github.com/nikitasharma0524/japanese-sentence-maker
 
 ### Little motto I live by:
 
-**Ship small, ship often. Kaizen, but make it frontend.**
+**Design with empathy. Build with clarity. Improve with purpose.**
