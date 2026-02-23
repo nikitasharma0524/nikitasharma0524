@@ -11,8 +11,8 @@ Frontend Developer (Javascript / Vue / React / Angular) building clean, user-fir
 
 ## 🌸 Why Japan (in one sentence)
 
-I want to build products with craftsmanship, clarity, and care — and Japan is where that mindset feels like home.
-丁寧さと明確さ、思いやりを大切にしたものづくりをしたい――その想いに最も共鳴するのが日本です。
+> I want to build products with craftsmanship, clarity, and care — and Japan is where that mindset feels like home.  
+> 丁寧さと明確さ、思いやりを大切にしたものづくりをしたい――その想いに最も共鳴するのが日本です。
 ---
 
 ## 🧰 Tech I use
