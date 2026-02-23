@@ -17,15 +17,15 @@ I want to build products with craftsmanship, clarity, and care — and Japan is 
 
 ## 🧰 Tech I use
 
-**Frontend Development:** HTML, CSS, JavaScript, TypeScript, React.js, Vue.js, Angular, Next.js, Redux
-**UI Frameworks & Styling:** Tailwind CSS, Material UI, Ant Design, Bootstrap, SASS/SCSS
-**Data Visualization:** D3.js, Highcharts, Chart.js
-**APIs:** REST, GraphQL, Postman
-**Testing:** Cypress
-**Architecture & Tooling:** Nx, Caching, Git, GitHub, Docker
-**Deployment: ** Vercel, Netlify
-**Design & UX:** Figma, Wireframing, Adobe XD, Illustrator 
-**Collaboration: ** JIRA, Confluence
+**Frontend Development:** HTML, CSS, JavaScript, TypeScript, React.js, Vue.js, Angular, Next.js, Redux  
+**UI Frameworks & Styling:** Tailwind CSS, Material UI, Ant Design, Bootstrap, SASS/SCSS  
+**Data Visualization:** D3.js, Highcharts, Chart.js  
+**APIs:** REST, GraphQL, Postman  
+**Testing:** Cypress  
+**Architecture & Tooling:** Nx, Caching, Git, GitHub, Docker  
+**Deployment:** Vercel, Netlify  
+**Design & UX:** Figma, Wireframing, Adobe XD, Illustrator  
+**Collaboration:** JIRA, Confluence  
 
 ---
 
@@ -33,11 +33,13 @@ I want to build products with craftsmanship, clarity, and care — and Japan is 
 
 ### 🐕 Nihonken — Japanese learning web app
 
-A web app to help learners practice Japanese with interactive features and quizzes.  
+An interactive web app to explore Japan’s prefectures
 **Stack:** Vue/React (choose), TypeScript, Tailwind  
-➡️ Repo: [Nihonken](LINK_HERE)
+➡️ Repo: [Nihonken]https://github.com/nikitasharma0524/nihon-ken 
 
-### 🗾 Japan Prefecture App — Explore Japan, smarter
+### 🗾 Japanese Sentence Maker 
+A web app to help learners practice Japanese with interactive features and quizzes. 
+https://github.com/nikitasharma0524/japanese-sentence-maker
 
 
 ## 📚 Japanese Learning
