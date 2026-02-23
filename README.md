@@ -11,8 +11,9 @@ Frontend Developer (Javascript / Vue / React / Angular) building clean, user-fir
 
 ## 🌸 Why I Want to Work in Japan
 
-I want to build products with craftsmanship, clarity, and care — values that closely align with Japan’s approach to quality-focused product development and continuous improvement.
-丁寧さと明確さ、思いやりを大切にしたものづくりをしたいと考えており、その価値観に最も共鳴する場所が日本だと感じています。
+I’m motivated to work in Japan to contribute to teams that value craftsmanship, clarity, and continuous improvement in building user-focused products.  
+丁寧さと明確さを大切にしながら、ユーザー中心のプロダクト開発に携わりたいと考え、日本で働くことを目指しています。
+
 ---
 
 ## 🧰 Tech I use
