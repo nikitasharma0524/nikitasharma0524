@@ -35,7 +35,7 @@ I’m motivated to work in Japan to contribute to teams that value craftsmanship
 ### 🐕 Nihonken — Japanese learning web app
 
 An interactive web app to explore Japan’s prefectures
-**Stack:** Vue/React (choose), TypeScript, Tailwind  
+**Stack:** React, TypeScript, Tailwind  
 ➡️ Repo: [Nihonken]https://github.com/nikitasharma0524/nihon-ken 
 
 ### 🗾 Japanese Sentence Maker 
