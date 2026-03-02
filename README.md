@@ -1,70 +1,78 @@
-# Hi, I’m Nikita (ニキタ) 👋🇯🇵
+# Nikita Sharma
 
-Frontend Developer (Javascript / Vue / React / Angular) building clean, user-first products. With a long-term interest in Japan and friends there, I visited in 2025 and currently leveling up for N3. I’m seeking opportunities to relocate to Japan in 2026 for a long-term career role.
+Frontend Engineer | UI Architecture | Performance-Focused Systems  
 
+I build scalable, maintainable, and user-focused web applications with clarity and intent.  
+With 4+ years of experience in frontend engineering, I specialize in designing structured UI systems and high-performance data-driven interfaces.
 
-🎯 **Goal:** Frontend roles in Japan (Tokyo / Remote Japan-friendly)  
-🗓️ **Timeline:** 2026 relocation plan (open to earlier)  
-🧠 **Currently:** Shipping projects + leveling up Japanese (JLPT N3)
-
----
-
-## 🌸 Why I Want to Work in Japan
-
-I’m motivated to work in Japan to contribute to teams that value craftsmanship, clarity, and continuous improvement in building user-focused products.  
-丁寧さと明確さを大切にしながら、ユーザー中心のプロダクト開発に携わりたいと考え、日本で働くことを目指しています。
+Currently strengthening system design expertise and preparing for relocation to Japan in 2026.
 
 ---
 
-## 🧰 Tech I use
+## 💻 Tech Stack
 
-**Frontend Development:** HTML, CSS, JavaScript, TypeScript, React.js, Vue.js, Angular, Next.js, Redux  
-**UI Frameworks & Styling:** Tailwind CSS, Material UI, Ant Design, Bootstrap, SASS/SCSS  
-**Data Visualization:** D3.js, Highcharts, Chart.js  
-**APIs:** REST, GraphQL, Postman  
-**Testing:** Cypress  
-**Architecture & Tooling:** Nx, Caching, Git, GitHub, Docker  
-**Deployment:** Vercel, Netlify  
-**Design & UX:** Figma, Wireframing, Adobe XD, Illustrator  
-**Collaboration:** JIRA, Confluence  
+### Core
+![TypeScript](https://img.shields.io/badge/-TypeScript-F5F5F5?style=for-the-badge&logo=typescript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F5F5F5?style=for-the-badge&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/-Vue-F5F5F5?style=for-the-badge&logo=vue.js&logoColor=black)
+![React](https://img.shields.io/badge/-React-F5F5F5?style=for-the-badge&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/-Angular-F5F5F5?style=for-the-badge&logo=angular&logoColor=black)
 
----
+### UI & Styling
+![TailwindCSS](https://img.shields.io/badge/-Tailwind-F5F5F5?style=for-the-badge&logo=tailwind-css&logoColor=black)
+![Ant Design](https://img.shields.io/badge/-AntDesign-F5F5F5?style=for-the-badge&logo=ant-design&logoColor=black)
+![Material UI](https://img.shields.io/badge/-MUI-F5F5F5?style=for-the-badge&logo=mui&logoColor=black)
+![SCSS](https://img.shields.io/badge/-SCSS-F5F5F5?style=for-the-badge&logo=sass&logoColor=black)
 
-## 🚀 Featured Projects (Japan storyline edition)
-
-### 🐕 Nihonken — Japanese learning web app
-
-An interactive web app to explore Japan’s prefectures
-**Stack:** React, TypeScript, Tailwind  
-➡️ Repo: [Nihonken]https://github.com/nikitasharma0524/nihon-ken 
-
-### 🗾 Japanese Sentence Maker 
-A web app to help learners practice Japanese with interactive features and quizzes. 
-https://github.com/nikitasharma0524/japanese-sentence-maker
-
-
-## 📚 Japanese Learning
-
-- **JLPT:** N3 in progress (consistent study routine)
-- I like building products that reinforce what I learn (vocab, reading, quizzes, UX)
+### Data & Tooling
+![AG Grid](https://img.shields.io/badge/-AGGrid-F5F5F5?style=for-the-badge&logo=ag-grid&logoColor=black)
+![D3.js](https://img.shields.io/badge/-D3-F5F5F5?style=for-the-badge&logo=d3.js&logoColor=black)
+![Nx](https://img.shields.io/badge/-Nx-F5F5F5?style=for-the-badge&logo=nx&logoColor=black)
+![Vite](https://img.shields.io/badge/-Vite-F5F5F5?style=for-the-badge&logo=vite&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/-GitHubActions-F5F5F5?style=for-the-badge&logo=github-actions&logoColor=black)
+![LaunchDarkly](https://img.shields.io/badge/-LaunchDarkly-F5F5F5?style=for-the-badge&logo=launchdarkly&logoColor=black)
 
 ---
 
-## 💼 What I’m looking for
+## 🚀 What I Focus On
 
-✅ Frontend / UI Engineer roles  
-✅ Product-focused teams, strong UI craft, performance, accessibility  
-✅ Japan relocation-friendly opportunities (visa support preferred)
-
----
-
-## 🤝 Let’s connect
-
-- LinkedIn: https://www.linkedin.com/in/nikita-sharma-419b33146/
-- Email: nikitasharma0524@gmail.com
+- Building modular, scalable frontend architecture  
+- Performance optimization in data-heavy applications  
+- Clean UI systems and design consistency  
+- Improving developer workflows and test coverage  
+- Writing code that remains readable six months later  
 
 ---
 
-### Little motto I live by:
+## 🌸 Selected Projects
 
-**Design with empathy. Build with clarity. Improve with purpose.**
+### NihonKen  
+AI-powered Japan Prefecture Explorer designed to deliver structured cultural and regional insights through an interactive UI.
+
+### RiskLens  
+Transaction Risk Evaluation Platform concept focused on scalable UI architecture and complex workflow visualization.
+
+---
+
+## 🌏 Why Japan
+
+I’m drawn to Japan’s approach to product development — long-term thinking, attention to detail, and respect for quality.  
+Since 2022, I’ve been studying Japanese and shaping my portfolio around globally scalable product systems.
+
+Relocation Goal: Q3 2026.
+
+---
+
+## 📫 Connect
+
+Portfolio: https://www.onigirinik.com  
+LinkedIn: (add link)  
+Email: (add email)
+
+---
+
+### Philosophy
+
+Ship small. Improve continuously.  
+Structure before scale.  
+Clarity over complexity.
