@@ -56,16 +56,6 @@ Currently strengthening system design expertise and preparing for relocation to 
 
 ---
 
-### バックエンド | Backend & APIs
-![Node.js](https://img.shields.io/badge/-Node.js-F5F5F5?style=for-the-badge&logo=node.js&logoColor=black)
-![Express.js](https://img.shields.io/badge/-Express.js-F5F5F5?style=for-the-badge&logo=express&logoColor=black)
-![REST APIs](https://img.shields.io/badge/-REST-F5F5F5?style=for-the-badge&logo=api&logoColor=black)
-![GraphQL](https://img.shields.io/badge/-GraphQL-F5F5F5?style=for-the-badge&logo=graphql&logoColor=black)
-![Firebase](https://img.shields.io/badge/-Firebase-F5F5F5?style=for-the-badge&logo=firebase&logoColor=black)
-![Postman](https://img.shields.io/badge/-Postman-F5F5F5?style=for-the-badge&logo=postman&logoColor=black)
-
----
-
 ### デザイン | Design
 ![Figma](https://img.shields.io/badge/-Figma-F5F5F5?style=for-the-badge&logo=figma&logoColor=black)
 ![Adobe XD](https://img.shields.io/badge/-AdobeXD-F5F5F5?style=for-the-badge&logo=adobe-xd&logoColor=black)
