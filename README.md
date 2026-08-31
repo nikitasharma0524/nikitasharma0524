@@ -3,9 +3,6 @@
 Frontend Developer
 
 I build scalable, maintainable, and user-focused web applications with clarity and intent.  
-With 4+ years of experience in frontend engineering, I specialize in designing structured UI systems and high-performance data-driven interfaces.
-
-Currently strengthening system design expertise and preparing for relocation to Japan in 2026.
 
 ---
 
@@ -61,46 +58,6 @@ Currently strengthening system design expertise and preparing for relocation to 
 ![Adobe XD](https://img.shields.io/badge/-AdobeXD-F5F5F5?style=for-the-badge&logo=adobe-xd&logoColor=black)
 ![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-F5F5F5?style=for-the-badge&logo=adobe-illustrator&logoColor=black)
 ![Wireframing](https://img.shields.io/badge/-Wireframing-F5F5F5?style=for-the-badge&logo=figma&logoColor=black)
-
----
----
-
-## 🚀 What I Focus On
-
-- Building modular, scalable frontend architecture  
-- Performance optimization in data-heavy applications  
-- Clean UI systems and design consistency  
-- Improving developer workflows and test coverage  
-- Writing code that remains readable six months later  
-
----
-
-## 🌸 Selected Projects
-
-### NihonKen  
-AI-powered Japan Prefecture Explorer designed to deliver structured cultural and regional insights through an interactive UI.
-https://nihon-ken.vercel.app/
-
-### RiskLens  
-Transaction Risk Evaluation Platform concept focused on scalable UI architecture and complex workflow visualization.
-https://risklens-snowy.vercel.app/
-
----
-
-## 🌏 Why Japan
-
-I’m drawn to Japan’s approach to product development — long-term thinking, attention to detail, and respect for quality.  
-Since 2022, I’ve been studying Japanese and shaping my portfolio around globally scalable product systems.
-
-Relocation Goal: 2026.
-
----
-
-## 📫 Connect
-
-Portfolio: https://www.onigirinik.com/
-LinkedIn: https://www.linkedin.com/in/nikita-sharma-419b33146/
-Email: nikitasharma0524@gmail.com
 
 ---
 
